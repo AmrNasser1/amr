@@ -977,7 +977,8 @@ a {
 }
 @media (max-width: 768px) {
   .event .container form {
-    padding: 10px 0px;
+    padding: 15px 0px;
+    width: 90%;
   }
   .event .container form input {
     padding: 10px;
